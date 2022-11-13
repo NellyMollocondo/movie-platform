@@ -1,0 +1,19 @@
+{
+  "name": "movie-platform",
+  "version": "1.0.0",
+  "description": "Plataforma de búsqueda de películas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NellyMollocondo/movie-platform.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NellyMollocondo/movie-platform/issues"
+  },
+  "homepage": "https://github.com/NellyMollocondo/movie-platform#readme"
+}
